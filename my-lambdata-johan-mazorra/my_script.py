@@ -6,4 +6,4 @@
 #  'z': [1, 2, 3, 4, 5, 6]})
 
 
-# from my_lambdata.my_mod import check_for_nulls
+# from my_lambdata_johan_mazorra.my_mod import check_for_nulls
